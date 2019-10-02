@@ -1,0 +1,9 @@
+[submodule "curve13318-cortex_m4"]
+	path = curve13318-cortex_m4
+	url = https://github.com/dsprenkels/curve13318-cortex_m4.git
+[submodule "curve13318-haswell"]
+	path = curve13318-haswell
+	url = https://github.com/dsprenkels/curve13318-haswell.git
+[submodule "curve13318-ivybridge"]
+	path = curve13318-ivybridge
+	url = https://github.com/dsprenkels/curve13318-ivybridge.git
